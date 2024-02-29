@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="openjfx-11_linux-x64_bin-sdk">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/Downloads/openjfx-11_linux-x64_bin-sdk.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
