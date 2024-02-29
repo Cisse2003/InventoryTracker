@@ -1,5 +1,4 @@
-   ## Description du Projet
-   ## InventoryTracker
+  ## InventoryTracker
 # Description :
 InventoryTracker est une application de gestion de stocks conçue pour aider les entreprises à suivre et gérer efficacement leurs stocks de produits. Que ce soit pour un magasin de détail, un entrepôt ou une entreprise de fabrication, InventoryTracker offre une solution complète pour la gestion de l'inventaire, permettant de suivre les niveaux de stock, les mouvements d'inventaire et les dates d'expiration des produits de manière simple et intuitive.
 
