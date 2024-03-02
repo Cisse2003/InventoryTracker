@@ -29,7 +29,6 @@ public class EventHandlers {
     private void listViewHandler() {
         productListView.setOnMouseClicked(event -> {
             String selectedItem = productListView.getSelectionModel().getSelectedItem();
-            // Faites quelque chose avec l'élément sélectionné
         });
     }
 
